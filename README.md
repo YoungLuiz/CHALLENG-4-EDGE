@@ -48,5 +48,5 @@ O fluxo de dados é representado via TagoIO e Node-RED de maneira ilustrativa.
 
 ## Diagrama do Sistema
 
-![Diagrama do Projeto](diagrama.png)
+<img src="diagrama.png" alt="Diagrama do Projeto" width="600"/>
 
