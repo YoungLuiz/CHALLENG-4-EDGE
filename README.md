@@ -25,7 +25,7 @@ O **TotemAI** detecta gestos sem toque através de sensores para abrir menus de 
 
 ---
 
-## 🔌 Esquema de Conexão
+## Esquema de Conexão
 
 - HC-SR04 VCC → 5V Arduino
 - HC-SR04 GND → GND Arduino
