@@ -33,3 +33,15 @@ O **TotemAI** detecta gestos sem toque através de sensores para abrir menus de 
 - HC-SR04 Echo → Pino 10 Arduino
 
 ---
+## Fluxo do Sistema
+Sensor detecta gesto.
+
+Arduino envia sinal para o TagoIO.
+
+Node-RED lê o sinal e aciona a abertura de um menu ilustrativo.
+
+---
+## Demonstração
+
+A simulação foi realizada no Wokwi e demonstra o sensor detectando o gesto.
+O fluxo de dados é representado via TagoIO e Node-RED de maneira ilustrativa.
