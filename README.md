@@ -45,3 +45,8 @@ Node-RED lê o sinal e aciona a abertura de um menu ilustrativo.
 
 A simulação foi realizada no Wokwi e demonstra o sensor detectando o gesto.
 O fluxo de dados é representado via TagoIO e Node-RED de maneira ilustrativa.
+
+## Diagrama do Sistema
+
+![Diagrama do Projeto](diagrama.png)
+
