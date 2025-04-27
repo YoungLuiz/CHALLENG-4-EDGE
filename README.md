@@ -65,6 +65,6 @@ O objetivo do TotemAI é melhorar a experiência dos usuários em hospitais:
 
 ## Integrantes
 - Luiz Gustavo Araújo de Lima e Silva - RM560110
-- Arthur
+- Arthur Silva - RM560771
 - Pedro Estevam - RM560642
 - Matheus Siroma - RM560248
