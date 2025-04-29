@@ -65,7 +65,7 @@ O objetivo do TotemAI é melhorar a experiência dos usuários em hospitais:
 
 
 ## Vídeo do Projeto
-[Inserir link para o vídeo de demonstração aqui]
+
 
 ## Integrantes
 - Luiz Gustavo Araújo de Lima e Silva - RM560110
