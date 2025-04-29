@@ -60,6 +60,10 @@ O objetivo do TotemAI é melhorar a experiência dos usuários em hospitais:
 ## Diagrama do Sistema
 <img src="diagrama.png" alt="Diagrama do Projeto" width="600"/>
 
+## Dashboard no TagoIO
+![image](https://github.com/user-attachments/assets/7b149317-3530-48c1-8039-d1cb009b5d00)
+
+
 ## Captura de Tela do Projeto
 ![image](https://github.com/user-attachments/assets/213c8912-ead8-4455-a9f9-bb0680748a7b)
 
