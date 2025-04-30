@@ -69,7 +69,7 @@ O objetivo do TotemAI é melhorar a experiência dos usuários em hospitais:
 https://wokwi.com/projects/429612764102574081
 
 ## Vídeo do Projeto
-
+https://youtu.be/iupmdHq8xSs
 
 ## Integrantes
 - Luiz Gustavo Araújo de Lima e Silva - RM560110
